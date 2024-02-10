@@ -1,1 +1,1 @@
-worker: python3 Rose
+worker: python3 -m Rose
